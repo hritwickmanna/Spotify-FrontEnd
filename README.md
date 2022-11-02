@@ -10,7 +10,11 @@ Project Details:-
 Tech Stacks Used
 
 HTML
+
 CSS
+
 JavaScript
+
 DOM
+
 jQuery
