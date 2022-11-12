@@ -1,9 +1,8 @@
 # SpotifyClone
-Project - 3
 
-This is Spotify Clone site by Hritwick
+Hritwick has created a Spotify clone website. 
 
-For code details please refer to main branch
+Demo - https://bit.ly/DemoSpotify
 
 Link - https://hritwickmanna.github.io/SpotifyClone/
 
